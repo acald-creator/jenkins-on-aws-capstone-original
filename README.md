@@ -1,8 +1,11 @@
-# Udacity Cloud DevOps Capstone Project
+## Udacity
+> Cloud DevOps Capstone Project, Completed May 14, 2020
 
-> In this capstone project, I applied my skills and knowledge that I've gained throughout the Cloud DevOps Nanodegree program.
+## About Project
 
-## Project Tasks
+This project is the capstone for Cloud DevOps Nanodegree program which comprise of all that I learned through the materials. In this capstone project, I applied my skills and knowledge that I've gained throughout the Cloud DevOps Nanodegree program.
+
+### Project Tasks
 
 * AWS Environment / Console
 * Utilize Jenkins to implement CI/CD
@@ -11,11 +14,7 @@
 * Build Kubernetes cluster
 * Build Docker containers in pipelines
 
-## About Project
-
-This project is the capstone for Cloud DevOps Nanodegree program which comprise of all that I learned through the materials.
-
-## Key Things to Look For
+### Key Things to Look For
 
 Plugins Needed:
 
